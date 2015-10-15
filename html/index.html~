@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<meta name="description" content="">
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="cleartype" content="on">
+
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/main.css">
+		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+		<script src="js/vendor/jquery.js"></script>
+
+		<script src="js/helper.js"></script>
+		<script src="js/main.js"></script>
+    </head>
+    <body> 
+
+
+		<div class="head">Wohnzimmer</div>
+		<div class="deviceBtn">
+			<div class="deviceBtnIcon">
+				<img src="img/ikea.png" />			
+			</div>
+			<div class="deviceBtnName">Lampe</div>
+			<div class="deviceBtnOnOff">
+				<span title="s281621">On</span>
+				<span title="s281620">Off</span>
+			</div>
+		</div>
+
+		<div class="deviceBtn">
+			<div class="deviceBtnIcon">
+				<img src="img/ikeagroeno.png" />			
+			</div>
+			<div class="deviceBtnName">Lampe</div>
+			<div class="deviceBtnOnOff">
+				<span title="s281631">On</span>
+				<span title="s281630">Off</span>
+			</div>
+		</div>
+
+		<div class="deviceBtn">
+			<div class="deviceBtnIcon">
+				<img src="img/speaker.png" />			
+			</div>
+			<div class="deviceBtnName">Sound</div>
+			<div class="deviceBtnOnOff">
+				<span title="s281701">On</span>
+				<span title="s281700">Off</span>
+			</div>
+		</div>
+
+		<div class="head">Schlafzimmer</div>
+		<div class="deviceBtn">
+			<div class="deviceBtnIcon">
+				<img src="img/lamp.png" />			
+			</div>
+			<div class="deviceBtnName">Lampe</div>
+			<div class="deviceBtnOnOff">
+				<span title="s281601">On</span>
+				<span title="s281600">Off</span>
+			</div>
+		</div>
+
+		<div class="deviceBtn">
+			<div class="deviceBtnIcon">
+				<img src="img/tvrasp.png" />			
+			</div>
+			<div class="deviceBtnName">Raspberry + TV</div>
+			<div class="deviceBtnOnOff">
+				<span title="s281611">On</span>
+				<span title="s281610">Off</span>
+			</div>
+		</div>        
+
+		<div class="head">Arbeitszimmer</div>
+		<div class="deviceBtn">
+			<div class="deviceBtnIcon">
+				<img src="img/lamp.png" />			
+			</div>
+			<div class="deviceBtnName">Lampe</div>
+			<div class="deviceBtnOnOff">
+				<span title="s281601">On</span>
+				<span title="s281600">Off</span>
+			</div>
+		</div>
+
+       
+    </body>
+</html>
